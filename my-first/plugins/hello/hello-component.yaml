@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hello
+  description: A demo plugin for Backstage
+  tags:
+    - plugin
+    - example
+spec:
+  type: library
+  owner: rubal
