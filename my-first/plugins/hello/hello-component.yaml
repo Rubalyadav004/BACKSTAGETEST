@@ -8,4 +8,5 @@ metadata:
     - example
 spec:
   type: library
+  lifecycle: experimental
   owner: rubal
